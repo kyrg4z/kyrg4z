@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kratos1top
 - 👀 I’m interested in Backend Development
-- 🌱 I’m currently learning Python, Django, Sql
+- 🌱 I’m currently learning HTML, CSS, Django, Sql
 
 <!---
 Kratos1top/Kratos1top is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
