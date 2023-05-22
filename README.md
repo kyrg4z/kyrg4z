@@ -1,3 +1,7 @@
+<head>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha384-XXXXXXX" crossorigin="anonymous">
+</head>
+
 ## 👋 Hi there, my name is Artur
 I completed a Python bootcamp at [Codify](https://www.codifylab.com/), and I am interested in gaining experience in the IT field
 
@@ -10,10 +14,10 @@ I completed a Python bootcamp at [Codify](https://www.codifylab.com/), and I am 
 ♟ I like playing chess and reading books.
 
 ## 💻 My Tech Stack
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]()
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]() 
+<i class="fab fa-python"></i>
+<i class="fas fa-book"></i>
+<i class="fas fa-code"></i>
 <br>
-
 🌱 I’m currently learning algorithms
 
 ## My goals for 2023
@@ -21,9 +25,10 @@ I completed a Python bootcamp at [Codify](https://www.codifylab.com/), and I am 
 - Try a lot of things (such as data science, frameworks, machine learning, gamedev)
 
 ## How to reach me
-[Telegram](https://t.me/@artos_tash)
-[Leetcode](https://leetcode.com/_Artos_/)
-<a href="mailto:strong.willed254@gmail.com">Send Email</a>
+[Telegram](https://t.me/@artos_tash) <br>
+[Leetcode](https://leetcode.com/_Artos_/) <br>
+[Send Email](mailto:strong.willed254@gmail.com)
+
 
 
 <details>
