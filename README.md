@@ -23,7 +23,8 @@ I completed a Python bootcamp at [Codify](https://www.codifylab.com/), and I am 
 ## How to reach me
 [Telegram](https://t.me/@artos_tash)
 [Leetcode](https://leetcode.com/_Artos_/)
-[//]: # (email will be soon)
+<a href="mailto:strong.willed254@gmail.com">Send Email</a>
+
 
 <details>
   <summary>:zap: GitHub Stats</summary>
