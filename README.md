@@ -3,27 +3,26 @@ I completed a Python bootcamp at [Codify](https://www.codifylab.com/), and I am 
 
 ## Fan facts 
 
-👀 I’m interested in everything
+👀 I’m currently interested in web development.
 
-🤼‍♂️ I like wrestling
+🤼‍♂️ I like wrestling.
 
-♟ I like playing chess and reading books
+♟ I like playing chess and reading books.
 
 ## 💻 My Tech Stack
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]()
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]() 
 <br>
 
-🌱 I’m currently learning Django, HTML and CSS
+🌱 I’m currently learning algorithms
 
 ## My goals for 2023
-- Learn Html and Css
-- Learn JavaScript and React
+- Learn data structures & algorithms. Solve at least 150 easy-medium problems.
 - Try a lot of things (such as data science, frameworks, machine learning, gamedev)
 
 ## How to reach me
 [Telegram](https://t.me/@artos_tash)
-
+[Leetcode](https://leetcode.com/_Artos_/)
 [//]: # (email will be soon)
 
 <details>
