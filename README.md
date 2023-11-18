@@ -18,11 +18,11 @@ I completed a Python bootcamp at [Codify](https://www.codifylab.com/), and I am 
 <i class="fas fa-book"></i>
 <i class="fas fa-code"></i>
 <br>
-🌱 I’m currently learning algorithms
+🌱 I’m currently learning React and Next.js
 
 ## My goals for 2023
-- Learn data structures & algorithms. Solve at least 150 easy-medium problems.
-- Try a lot of things (such as data science, frameworks, machine learning, gamedev)
+- Learn the basics of data structures & algorithms. Solve at least 150 easy-medium problems.
+- Try Frontend development
 
 ## How to reach me
 [Telegram](https://t.me/@artos_tash) <br>
