@@ -7,11 +7,11 @@ I completed a Python bootcamp at [Codify](https://www.codifylab.com/), and I am 
 
 ## Fan facts 
 
-👀 I’m currently interested in web development.
+👀 I’m currently interested in low level programming.
 
-🤼‍♂️ I like wrestling.
+🤼‍♂️ I love wrestling.
 
-♟ I like playing chess and reading books.
+♟ I love playing chess and reading books.
 
 ## 💻 My Tech Stack
 <i class="fab fa-python"></i>
@@ -21,7 +21,7 @@ I completed a Python bootcamp at [Codify](https://www.codifylab.com/), and I am 
 🌱 I’m currently learning React and Next.js
 
 ## My goals for 2023
-- Learn the basics of data structures & algorithms. Solve at least 150 easy-medium problems.
+- Learn the basics of data structures & algorithms. Solve at least 75 easy-medium problems.
 - Try Frontend development
 
 ## How to reach me
