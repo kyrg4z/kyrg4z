@@ -3,13 +3,14 @@
 </head>
 
 ## 👋 Hi there, my name is Artur
-I completed a Python bootcamp at [Codify](https://www.codifylab.com/), and I am interested in gaining experience in the IT field
+I completed a Python bootcamp at [Codify](https://www.codifylab.com/) and am interested in gaining experience in Computer Science.
+
 
 ## Fan facts 
 
-👀 I’m currently interested in low level programming.
+👀 I’m currently interested in low-level programming.
 
-🤼‍♂️ I love wrestling.
+🤼‍♂️ I love wrestling and rock climbing
 
 ♟ I love playing chess and reading books.
 
@@ -18,11 +19,13 @@ I completed a Python bootcamp at [Codify](https://www.codifylab.com/), and I am 
 <i class="fas fa-book"></i>
 <i class="fas fa-code"></i>
 <br>
-🌱 I’m currently learning React and Next.js
+🌱 I’m currently learning C and Linux
 
-## My goals for 2023
-- Learn the basics of data structures & algorithms. Solve at least 75 easy-medium problems.
-- Try Frontend development
+## My goals for 2024
+1. Build a portfolio website
+2. Solve 150 problems on leetcode
+3. Learn Rust & Tauri
+4. Dive into C and low-level programming
 
 ## How to reach me
 [Telegram](https://t.me/@artos_tash) <br>
