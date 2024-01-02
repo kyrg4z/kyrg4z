@@ -22,10 +22,10 @@ I completed a Python bootcamp at [Codify](https://www.codifylab.com/) and am int
 🌱 I’m currently learning C and Linux
 
 ## My goals for 2024
-1. Build a portfolio website
+1. Build a beautiful portfolio website 
 2. Solve 150 problems on leetcode
 3. Learn Rust & Tauri
-4. Dive into C and low-level programming
+4. Dive into C programming language and low-level programming
 
 ## How to reach me
 [Telegram](https://t.me/@artos_tash) <br>
@@ -33,10 +33,7 @@ I completed a Python bootcamp at [Codify](https://www.codifylab.com/) and am int
 [Send Email](mailto:strong.willed254@gmail.com)
 
 
+<summary>:zap: GitHub Stats</summary>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Kratos1Top's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kratos1Top&show_icons=true&theme=tokyonight" />
-
-</details>
+<img align="left" alt="Kratos1Top's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kratos1Top&show_icons=true&theme=tokyonight" />
+  
