@@ -36,5 +36,5 @@ I completed a Python bootcamp at [Codify](https://www.codifylab.com/) and am int
 
 <summary>:zap: GitHub Stats</summary>
 
-<img align="left" alt="Kratos1Top's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kratos1Top&show_icons=true&theme=tokyonight" />
+<img align="left" alt="Kratos1Top's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Artos1Tash&show_icons=true&theme=tokyonight" />
   
