@@ -31,7 +31,7 @@ I completed a Python bootcamp at [Codify](https://www.codifylab.com/) and am int
 ## How to reach me
 [Telegram](https://t.me/@artos_tash) <br>
 [Leetcode](https://leetcode.com/_Artos_/) <br>
-[Send Email](mailto:strong.willed254@gmail.com)
+[Email](mailto:strong.willed254@gmail.com)
 
 
 <summary>:zap: GitHub Stats</summary>
