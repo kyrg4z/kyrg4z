@@ -3,14 +3,14 @@
 </head>
 
 ## 👋 Hi there, my name is Artur
-I completed a Python bootcamp at [Codify](https://www.codifylab.com/) and am interested in gaining experience in Computer Science.
+I completed a Python bootcamp at [Codify](https://www.codifylab.com/) and am interested in creating meaningful projects. 
 
 
 ## Fun facts 
 
-👀 I’m currently interested in low-level programming
+👀 I’m currently interested in mobile development 
 
-🤼‍♂️ I love wrestling and rock climbing
+🤼‍♂️ I love sports. (MMA and rock climbing)
 
 ♟ I love playing chess and reading books
 
