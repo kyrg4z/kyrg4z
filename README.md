@@ -12,21 +12,21 @@ I completed a Python bootcamp at [Codify](https://www.codifylab.com/) and am int
 
 🤼‍♂️ I love sports. (MMA and rock climbing)
 
-♟ I love playing chess and reading books
+♟ I am a big fan of photography and drones
 
 
-## 💻 My Tech Stack
-<i class="fab fa-python"></i>
-<i class="fas fa-book"></i>
-<i class="fas fa-code"></i>
+## 💻 Area of interest
+Arch Linux
+Raspberry Pi
+Mobile and Backend
 <br>
 🌱 I’m currently learning C and Linux
 
 ## My goals for 2024
 1. Build a beautiful portfolio website 
 2. Solve 150 problems on leetcode
-3. Learn Rust & Tauri
-4. Dive into C programming language and low-level programming
+3. Build Flutter projects
+4. Learn and try something new
 
 ## How to reach me
 [Telegram](https://t.me/@artos_tash) <br>
