@@ -3,21 +3,21 @@
 </head>
 
 ## 👋 Hi there, my name is Artur
-I completed a Python bootcamp at [Codify](https://www.codifylab.com/) and am interested in creating meaningful projects. 
+I completed a Python bootcamp at [Codify](https://www.codifylab.com/), and I am interested in creating meaningful projects. 
 
 
 ## Fun facts 
 
 👀 I’m currently interested in mobile development 
 
-🤼‍♂️ I love sports. (MMA and rock climbing)
+🤼‍♂️ I love sports. (wrestling, rock climbing, boxing, swimming, running, football)
 
-♟ I am a big fan of photography and drones
+♟ I am a big fan of photography and fpv drones
 
 
 ## 💻 Area of interest
 Arch Linux
-Raspberry Pi
+Security and Networking
 Mobile and Backend
 <br>
 🌱 I’m currently learning C and Linux
@@ -31,7 +31,7 @@ Mobile and Backend
 ## How to reach me
 [Telegram](https://t.me/@artos_tash) <br>
 [Leetcode](https://leetcode.com/_Artos_/) <br>
-[Email](mailto:strong.willed254@gmail.com)
+[Email](mailto:artostash@gmail.com)
 
 
 <summary>:zap: GitHub Stats</summary>
