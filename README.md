@@ -6,27 +6,27 @@
 I completed a Python bootcamp at [Codify](https://www.codifylab.com/), and I am interested in creating meaningful projects. 
 
 
-## Fun facts 
-
-👀 I’m currently interested in mobile development 
-
-🤼‍♂️ I love sports. (wrestling, rock climbing, boxing, swimming, running, football)
-
-♟ I am a big fan of photography and fpv drones
-
 
 ## 💻 Area of interest
-Arch Linux
-Security and Networking
-Mobile and Backend
-<br>
-🌱 I’m currently learning C and Linux
+Arch Linux <br/>
+Security and Networking <br/>
+Mobile and Backend <br/>
+🌱 I’m currently learning C and Assembly
 
 ## My goals for 2024
 1. Build a beautiful portfolio website 
 2. Solve 150 problems on leetcode
 3. Build Flutter projects
 4. Learn and try something new
+
+
+## Hobbies
+
+:camera: Photography
+🎥 Video Editing
+🤼‍♂️ I love sports. (wrestling, rock climbing, boxing, swimming, running, football)
+♟ Chess
+📗 Reading
 
 ## How to reach me
 [Telegram](https://t.me/@artos_tash) <br>
