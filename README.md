@@ -22,11 +22,11 @@ Mobile and Backend <br/>
 
 ## Hobbies
 
-:camera: Photography
-🎥 Video Editing
-🤼‍♂️ I love sports. (wrestling, rock climbing, boxing, swimming, running, football)
-♟ Chess
-📗 Reading
+:camera: Photography <br/>
+🎥 Video Editing <br/>
+🤼‍♂️ I love sports. (wrestling, rock climbing, boxing, swimming, running, football) <br/>
+♟ Chess <br/>
+📗 Reading <br/>
 
 ## How to reach me
 [Telegram](https://t.me/@artos_tash) <br>
