@@ -29,12 +29,11 @@ Mobile and Backend <br/>
 📗 Reading <br/>
 
 ## How to reach me
-[Telegram](https://t.me/@artos_tash) <br>
-[Leetcode](https://leetcode.com/_Artos_/) <br>
+Gmail - artostash@gmail.com
 [Email](mailto:artostash@gmail.com)
 
 
 <summary>:zap: GitHub Stats</summary>
 
-<img align="left" alt="Kratos1Top's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Artos1Tash&show_icons=true&theme=tokyonight" />
+<img align="left" alt="Kratos1Top's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=N1ghtH0wk&show_icons=true&theme=tokyonight" />
   
