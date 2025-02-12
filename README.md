@@ -11,13 +11,13 @@ I completed a Python bootcamp at [Codify](https://www.codifylab.com/), and I am 
 Arch Linux <br/>
 Security and Networking <br/>
 Mobile and Backend <br/>
-🌱 I’m currently learning C and Assembly
+🌱 I’m currently learning Web Development
 
-## My goals for 2024
-1. Build a beautiful portfolio website 
-2. Solve 150 problems on leetcode
-3. Build Flutter projects
-4. Learn and try something new
+## My goals for 2025
+1. Get a cyber security certification (CompTIA Linux/Security +)
+2. Build a chat-like system for Flowboat
+3. Try new Linux distributions
+4. Try game development with Godot 
 
 
 ## Hobbies
