@@ -14,10 +14,11 @@ Mobile and Backend <br/>
 🌱 I’m currently learning Web Development
 
 ## My goals for 2025
-1. Get a cyber security certification (CompTIA Linux/Security +)
-2. Build a chat-like system for Flowboat
+1. Get a cyber security certification (Sec 503)
+2. Build a chat-like app for Flowboat
 3. Try new Linux distributions
-4. Try game development with Godot 
+4. Try game development with Godot
+5. Solve 150 leetcode problems 
 
 
 ## Hobbies
