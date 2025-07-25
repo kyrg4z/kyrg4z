@@ -36,5 +36,5 @@ Gmail - artostash@gmail.com
 
 <summary>:zap: GitHub Stats</summary>
 
-<img align="left" alt="Kratos1Top's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=N1ghtH0wk&show_icons=true&theme=tokyonight" />
+<img align="left" alt="My Stats" src="https://github-readme-stats.vercel.app/api?username=kyrg4z&show_icons=true&theme=tokyonight" />
   
