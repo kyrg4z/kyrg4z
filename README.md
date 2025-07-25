@@ -8,10 +8,10 @@ I completed a Python bootcamp at [Codify](https://www.codifylab.com/), and I am 
 
 
 ## 💻 Area of interest
-Arch Linux <br/>
-Security and Networking <br/>
-Mobile and Backend <br/>
-🌱 I’m currently learning Web Development
+Kali Linux <br/>
+Cyber security and Networking <br/>
+C, Rust, and low-level development<br/>
+
 
 ## My goals for 2025
 1. Get a cyber security certification (Sec 503)
