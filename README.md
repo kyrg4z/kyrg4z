@@ -3,7 +3,7 @@
 </head>
 
 ## 👋 Hi there, my name is Artur
-I completed a Python bootcamp at [Codify](https://www.codifylab.com/), and I am interested in creating meaningful projects. 
+I'm currently learning Networking and Cybersecurity 
 
 
 
@@ -14,11 +14,10 @@ C, Rust, and low-level development<br/>
 
 
 ## My goals for 2025
-1. Get a cyber security certification (Sec 503)
-2. Build a chat-like app for Flowboat
-3. Try new Linux distributions
-4. Try game development with Godot
-5. Solve 150 leetcode problems 
+1. Get a cyber security certification 
+2. Try game development with Godot
+3. Learn bash
+4. Learn to use a couple of Kali linux tools 
 
 
 ## Hobbies
