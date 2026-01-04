@@ -4,8 +4,8 @@
 
 ## Focus
 
-Hey, I’m **Artur**, a high schooler with a strong interest in **cybersecurity** and **low-level systems**.  
-I enjoy understanding how systems work internally — and where they fail.
+Hey, I’m **Artur**, a high schooler with a strong passion for **cybersecurity** and **low-level systems**.  
+I enjoy understanding how systems work internally and how they fail.
 
 - **Reverse Engineering**  
   x86 / ARM binaries · malware analysis · static & dynamic analysis  
