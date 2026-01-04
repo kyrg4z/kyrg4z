@@ -1,39 +1,96 @@
-<head>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha384-XXXXXXX" crossorigin="anonymous">
-</head>
-
-## 👋 Hi there, my name is Artur
-I'm currently learning Networking and Cybersecurity 
+# Artur (@kyrg4z)
+> **Reverse Engineering · Network Security · Low-Level Systems**
 
 
+## Focus
 
-## 💻 Area of interest
-Kali Linux <br/>
-Cyber security and Networking <br/>
-C, Rust, and low-level development<br/>
+Hey, I’m **Artur**, a high schooler with a strong interest in **cybersecurity** and **low-level systems**.  
+I enjoy understanding how systems work internally — and where they fail.
+
+- **Reverse Engineering**  
+  x86 / ARM binaries · malware analysis · static & dynamic analysis  
+
+- **Exploitation (Pwn)**  
+  memory corruption · ROP fundamentals · intro kernel concepts  
+
+- **Network Security**  
+  protocol behavior · traffic inspection · packet sniffing  
+
+##  Skills & Domains *(Developing)*
+
+- **Binary Fundamentals**  
+  Reading x86 / ARM assembly · basic static & dynamic analysis  
+
+- **Reverse Engineering**  
+  Function tracing · control-flow analysis · patching simple checks  
+
+- **Exploitation Foundations**  
+  Stack overflows · basic heap concepts · intro ROP chains  
+
+- **Debugging & Analysis**  
+  GDB + pwndbg workflows · breakpoints · memory inspection  
+
+- **Networking Basics**  
+  TCP/IP fundamentals · packet inspection · protocol behavior analysis  
+
+- **Linux Internals**  
+  Process memory · ELF structure · system calls · permissions model  
+
+- **CTF Experience**  
+  Forensics and network-focused challenges  
 
 
-## My goals for 2025
-1. Get a cyber security certification 
-2. Try game development with Godot
-3. Learn bash
-4. Learn to use a couple of Kali linux tools 
+##  Currently Learning
+
+- Basic stack overflow techniques 
+- Memory, and registers
+- Network protocol internals (HTTP, DNS, TCP behavior)  
 
 
-## Hobbies
+##  Goals for 2026
 
-:camera: Photography <br/>
-🎥 Video Editing <br/>
-🤼‍♂️ I love sports. (wrestling, rock climbing, boxing, swimming, running, football) <br/>
-♟ Chess <br/>
-📗 Reading <br/>
+- Strengthen foundations in reverse engineering and exploitation  
+- Gain deeper understanding of operating system internals  
+- Grow through CTF participation, hackathons and cybersecurity projects  
 
-## How to reach me
-Gmail - artostash@gmail.com
-[Email](mailto:artostash@gmail.com)
+ 
+
+## Tooling
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Ghidra-111111?style=for-the-badge&logo=ghidra&logoColor=88E051" />
+  <img src="https://img.shields.io/badge/Binary_Ninja-000000?style=for-the-badge&logo=binaryninja&logoColor=white" />
+  <img src="https://img.shields.io/badge/IDA_Pro-111111?style=for-the-badge&logo=idapro&logoColor=33CCFF" />
+  <img src="https://img.shields.io/badge/GDB_+_Pwndbg-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-4F5D95?style=for-the-badge&logo=nmap&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=asm&logoColor=white" />
+</p>
+
+## Activity
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kyrg4z&theme=transparent)](https://git.io/streak-stats)
+
+</div>
 
 
-<summary>:zap: GitHub Stats</summary>
 
-<img align="left" alt="My Stats" src="https://github-readme-stats.vercel.app/api?username=kyrg4z&show_icons=true&theme=tokyonight" />
-  
+## Contact
+
+<p align="center">
+  <a href="mailto:artostash@gmail.com">
+    <img src="https://img.shields.io/badge/Email-artostash%40gmail.com-white?style=for-the-badge&logo=gmail&logoColor=black" />
+  </a>
+  <a href="https://github.com/kyrg4z">
+    <img src="https://img.shields.io/badge/GitHub-kyrg4z-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
