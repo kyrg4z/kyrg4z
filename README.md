@@ -77,9 +77,7 @@ I enjoy understanding how systems work internally — and where they fail.
 ## Activity
 
 <div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kyrg4z&theme=transparent)](https://git.io/streak-stats)
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-brown-nu.vercel.app?user=kyrg4z&theme=dark&date_format=j%2Fn%5B%2FY%5D&card_width=500&ring=EB5454&currStreakLabel=EB5454&fire=EB5454&background=020C10C2" alt="GitHub Streak" /></a>
 </div>
 
 
