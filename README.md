@@ -1,5 +1,5 @@
 # Artur (@kyrg4z)
-> **Reverse Engineering · Network Security · Low-Level Systems**
+> **Reverse Engineering · Network Security · Low-Level Systems · Hardware**
 
 
 ## Focus
