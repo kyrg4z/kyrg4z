@@ -42,9 +42,9 @@ I enjoy understanding how systems work internally and how they fail.
 
 ##  Currently Learning
 
-- Basic stack overflow techniques 
-- Memory, and registers
-- Network protocol internals (HTTP, DNS, TCP behavior)  
+- PCB design
+- RF hacking 
+- Meshtastic networking
 
 
 ##  Goals for 2026
